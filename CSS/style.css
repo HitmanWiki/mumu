@@ -25,7 +25,7 @@ body {
     background-color: #0052fe;
     height: fit-content;
     margin: 0;
-    font-family: "Oswald";
+    font-family: "Oswald", sans-serif;
     position: relative;
     color: #0052fe;
     overflow-x: hidden;
