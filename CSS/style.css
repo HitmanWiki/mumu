@@ -312,7 +312,7 @@ f} */
     height: 100%;
 }
 
-.memes-effect {
+/* .memes-effect {
     background-color: #98d3f3;
     height: 95%;
     width: 70px;
@@ -321,7 +321,7 @@ f} */
     box-shadow: 26px 1px 25px 0px rgba(152, 211, 243, 1);
     -webkit-box-shadow: 26px 1px 25px 0px rgba(152, 211, 243, 1);
     -moz-box-shadow: 26px 1px 25px 0px rgba(152, 211, 243, 1);
-}
+} */
 
 .right-effect {
     right: 0;
