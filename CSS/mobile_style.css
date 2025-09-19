@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1600px) {
     nav {
         margin: 20px 0 80px;
         justify-content: center;
@@ -47,6 +47,7 @@
 
     .about-text {
         padding-left: 0px;
+        font-family: "Oswald", sans-serif;
     }
 
     .about-text p,
