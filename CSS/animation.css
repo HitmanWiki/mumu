@@ -54,13 +54,13 @@
 .show-right {
     transform: translateX(0);
     opacity: 1;
-    /* filter: blur(0); */
+    filter: blur(0);
 }
 
 .show-top {
     transform: translateY(0);
     opacity: 1;
-    /* filter: blur(0); */
+    filter: blur(0);
 }
 
 .show-bottom {
